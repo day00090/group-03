@@ -24,7 +24,7 @@ The purpose of this project is to provide an overview of MongoDB, a popular NoSQ
 
 # Contributions
 **Shared contributions:** Everyone in the team will be involved in structuring the presentation, making sure everything is cohesive, and coming up with a good introduction and conclusion.
-
+<br><bR>
 **Noah Constable:** Will be working on the content of and presenting the introduction and key features of MongoDB
 
 **Biruk Mengistu:** Will be working on the content of and presenting the overview of the MongoDB architecture as well as the use cases of MongoDB

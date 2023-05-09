@@ -37,7 +37,7 @@ In addition, there were a few shared tasks. We worked together to ensure that ou
 ### End Result
 We managed to fulfill all of the tasks assigned to us by the Friday of our presentation, allowing us to edit things down and relay our information at a comfortable pace.
 
-### Potential for Future Work
+## Potential for Future Work
 There are a few potential avenues for future student presentations:
 1. Students may choose to compare the architectures of MongoDB with SQL or non-SQL based databases.
 2. Due to how reliant programming languages are on CRUD operations to interface with MongoDB, we chose to focus on those in particular. That being said, there are other MongoDB methods building off of CRUD that could be explored for future student projects.

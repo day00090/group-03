@@ -7,17 +7,23 @@ Our project was a presentation on the architecture, features, and operations of 
 
 ## Initial Responsibilities
 Each group member was tasked with a set of responsibilities. They were divided as follows:
+
 **Noah Constable:**
+
 1.  Introduce MongoDB and its advantages over traditional relational databases &#10003
 2.  Explain the key features of MongoDB, including:<br>
    a. Document-oriented data model&#10003;<br>
    b. Dynamic schema&#10003;<br>
    c. Indexing&#10003;<br> 
    d. and replication&#10003;
+
 **Biruk Mengistu:**
+
 3.  Provide an overview of the MongoDB architecture&#10003;
 4.  Discuss the use cases of MongoDB&#10003;
+
 **Kyle Day:**
+
 5.  Demonstrate how to work with MongoDB via CRUD operations<br>
     a. Creating collections&#10003;<br>
     b. Creating databases&#10003;<br>

@@ -42,3 +42,6 @@ There are a few potential avenues for future student presentations:
 1. Students may choose to compare the architectures of MongoDB with SQL or non-SQL based databases.
 2. Due to how reliant programming languages are on CRUD operations to interface with MongoDB, we chose to focus on those in particular. That being said, there are other MongoDB methods building off of CRUD that could be explored for future student projects.
 3. One may also choose to explore how different programming languages implement aspects of MongoDB architecture into different applications.
+
+## Reaction
+Our reaction to this project is fairly positive. Going off into the real world, we were pleased to have this opportunity to learn about MongoDB on an architectural and feature-based level.

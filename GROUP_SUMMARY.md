@@ -24,11 +24,7 @@ Each group member was tasked with a set of responsibilities. They were divided a
 
 ### Kyle Day
 
-5.  Demonstrate how to work with MongoDB via CRUD operations<br>
-    a. Creating collections&#10003;<br>
-    b. Creating databases&#10003;<br>
-    c. Creating documents&#10003;<br>
-    d. CRUD operations&#10003;
+5.  Demonstrate how to work with MongoDB via CRUD operations&#10003;
 6.  Explore MongoDB's integration with other tools and frameworks&#10003;
 
 ### Shared

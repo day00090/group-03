@@ -1,33 +1,29 @@
 # Group Summary for Our Overview of MongoDB
 
-## Introduction
+## Overview and Goals
 __Group Members:__ Kyle Day, Biruk Mengistu, Noah Constable
 
-The purpose of this project is to provide an overview of MongoDB, a popular NoSQL database. This project will provide an in-depth look into MongoDB's architecture, features, and use cases.
+Our project was a presentation on the architecture, features, and operations of MongoDB. In doing so, we highlighted the quirks of MongoDB as a database-management platform, made comparisons to SQL as appropriate, and provided insight into how MongoDB functions before being interfaced with popular programming languages.
 
-## Outline of Responsibilities
-
-1.  Introduce MongoDB and its advantages over traditional relational databases.
+## Initial Responsibilities
+Each group member was tasked with a set of responsibilities. They were divided as follows:
+**Noah Constable:**
+1.  Introduce MongoDB and its advantages over traditional relational databases &#10003
 2.  Explain the key features of MongoDB, including:<br>
    a. Document-oriented data model&#10003;<br>
    b. Dynamic schema&#10003;<br>
    c. Indexing&#10003;<br> 
    d. and replication&#10003;
+**Biruk Mengistu:**
 3.  Provide an overview of the MongoDB architecture&#10003;
 4.  Discuss the use cases of MongoDB&#10003;
-5.  Demonstrate how to work with MongoDB, including creating databases, collections, and documents, and performing CRUD operations.<br>
+**Kyle Day:**
+5.  Demonstrate how to work with MongoDB via CRUD operations<br>
     a. Creating collections&#10003;<br>
     b. Creating databases&#10003;<br>
     c. Creating documents&#10003;<br>
     d. CRUD operations&#10003;
 6.  Explore MongoDB's integration with other tools and frameworks&#10003;
+We managed to fulfill all of the tasks assigned to us by the Friday of our presentation, allowing us to edit things down and relay our information at a comfortable pace.
 
-# Contributions
-**Shared contributions:** Everyone in the team will be involved in structuring the presentation, making sure everything is cohesive, and coming up with a good introduction and conclusion.
-<br><bR>
-**Noah Constable:** Will be working on the content of and presenting the introduction and key features of MongoDB
-
-**Biruk Mengistu:** Will be working on the content of and presenting the overview of the MongoDB architecture as well as the use cases of MongoDB
-
-**Kyle Day:** Will be working on demonstrating how to work with MongoDB and do a short overview of its integration with other tools
-
+In addition, there were a few shared tasks. We worked together to ensure that our presentation was structured in a cohesive manner so as to provide comfortable transitions between the different topics we covered. We aimed to go from broad to specific in each of our sections.
